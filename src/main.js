@@ -4,7 +4,7 @@ import router from './router'
 import store from './store'
 
 import '@/plugins/vant'
-import '@/styles/style'
+import '@/styles/style.scss'
 import '@/plugins/bus'
 import '@/filters'
 import '@/icons'

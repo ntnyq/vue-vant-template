@@ -33,6 +33,7 @@
     "core-js": "^3.9.1",
     "js-cookie": "^2.2.1",
     "qs": "^6.9.6",
+    "regenerator-runtime": "^0.13.7",
     "vant": "^2.12.7",
     "vue": "^2.6.12",
     "vue-router": "^3.5.1",
